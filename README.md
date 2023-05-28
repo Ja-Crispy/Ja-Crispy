@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-- 🌱 I’m currently learning **AI/Ml, Data Science and Analytics**
+- 🌱 I’m currently learning **AI/Ml, Data Science, and Data Analytics**
 
 - 📫 How to reach me **vaisgovivarma@gmail.com**
 
